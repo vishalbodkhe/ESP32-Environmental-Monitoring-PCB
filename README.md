@@ -57,10 +57,18 @@ The PCB was designed as a 2-layer board with a dedicated GND copper zone, custom
 Gerber and PTH/NPTH drill files are included for PCB manufacturing.
 
 ## Project Images
-![Schematic](Images/Schematic_Design.png)
-![PCB Routing](Images/PCB_Routing_View.png)
-![3D PCB](Images/3D_PCB_View.png)
-![Gerber](Images/Gerber_Viewer.png)
+
+### Schematic
+![Schematic](Schematic_Design.png)
+
+### PCB Routing
+![PCB Routing](PCB_Routing_View.png)
+
+### 3D PCB
+![3D PCB](3D_PCB_View.png)
+
+### Gerber View
+![Gerber](Gerber_Viewer.png)
 
 ## Author
 
